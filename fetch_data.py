@@ -12,7 +12,7 @@ def fetch_ticketmaster_data(state_code: list, country_code: str) -> pd.DataFrame
 
     while True:
 
-        ticketmaster_api_key = 'Yn7rF52hOv8TYqTtjrLnrt9ycOJFD87F'
+        ticketmaster_api_key = 'D:\\projects\\ticketmaster\\consumer_key.txt'
         base_url = 'https://app.ticketmaster.com/discovery/v2/events.json'
         params = {
             'apikey': ticketmaster_api_key,
@@ -112,7 +112,7 @@ def ingest_data(df):
     """Load data to Postgres"""
 
     user="awahfgjj"
-    password="wnvI7QEwTduxzf89CKeh1JGDPG8668Ns"
+    password="D:\\projects\\ticketmaster\\db_pw.txt"
     host="satao.db.elephantsql.com"
     port="5432"
     db="awahfgjj"
