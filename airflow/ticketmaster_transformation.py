@@ -8,7 +8,7 @@ from pathlib import Path
 project_config = ProjectConfig("/usr/local/airflow/dags/dbt/ticketmaster")
 
 profile_config = ProfileConfig(
-    profile_name="template_by_vitlamdata",
+    profile_name="ticketmaster",
     target_name="dev",
     profiles_yml_filepath=Path('/usr/local/airflow/dags/dbt/ticketmaster/profiles.yml')
 )
