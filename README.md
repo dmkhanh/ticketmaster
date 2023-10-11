@@ -27,4 +27,4 @@ This project is used to demonstrate my understading on ETL frameworks and how to
 ![dashboard](images/dashboard.png)
 
 ## Credits
-Thank you [DataTalks Club](https://datatalks.club) for offering this free [course](https://github.com/DataTalksClub/data-engineering-zoomcamp) that helps me learn about the forementioned tools, especially Docker. I would also like to thank my colleagues for sharing their knowledge and learning with me!
+Thank you [DataTalks Club](https://datatalks.club) for offering this free [course](https://github.com/DataTalksClub/data-engineering-zoomcamp) that helps me learn about the forementioned tools and technologies, especially Docker. I would also like to thank my colleagues for sharing their knowledge and learning with me!
