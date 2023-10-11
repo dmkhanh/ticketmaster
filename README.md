@@ -8,7 +8,7 @@ This project is used to demonstrate my understading on ETL frameworks and how to
 
 ## Dataset
 
-[Ticketmaster API](https://developer.ticketmaster.com/) was used to fetch raw data of events (e.g., concerts, sport events, etc) around the world. Working with this dataset has also helped me familiarize with API use as well!
+[Ticketmaster API](https://developer.ticketmaster.com/) was used to fetch raw data of events (e.g., concerts, sport events, etc) around the world. Working with this dataset has also helped me familiarize with API use as well : )
 
 ## Techstack
 
