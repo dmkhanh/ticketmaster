@@ -1,5 +1,5 @@
 
-# Ticketmaster Event Pipeline
+# Ticketmaster Event Data Pipeline
 
 ## Description
 A starter data pipeline project with Python, dbt, Docker, Airflow, and Postgres! 
