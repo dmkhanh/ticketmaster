@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: ticketmaster_source
+    description: A clone of a Postgres application database
+    database: awahfgjj
+    schema: ticketmaster
+    tables:
+      - name: events
+        description: Raw events data
+        columns:
+          - name: id
+            description: Primary key for events
+            tests:
+              - unique
+              - not_null
