@@ -8,9 +8,9 @@ from pathlib import Path
 project_config = ProjectConfig("/usr/local/airflow/dags/dbt/ticketmaster")
 
 profile_config = ProfileConfig(
-    profile_name="ticketmaster",
+    profile_name="khanh-postgres",
     target_name="dev",
-    profiles_yml_filepath=Path('/usr/local/airflow/dags/dbt/ticketmaster/profiles.yml')
+    profiles_yml_filepath=Path('/usr/local/airflow/dags/dbt/profiles.yml')
 )
 
 @dag(

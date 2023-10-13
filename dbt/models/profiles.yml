@@ -1,6 +1,6 @@
 # Documentation: https://docs.getdbt.com/docs/get-started/connection-profiles
 
-ticketmaster:
+khanh-postgres:
   target: dev
   outputs:
     dev:
