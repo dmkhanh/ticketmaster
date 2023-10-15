@@ -20,7 +20,7 @@ This project is used to demonstrate my understading on ETL/ELT frameworks and ho
 
 ## Architecture
 
-![etl_pipeline](images/etl_pipeline.png)
+![pipeline](images/pipeline.png)
 
 ## Visualization
 
