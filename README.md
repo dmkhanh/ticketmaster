@@ -2,9 +2,7 @@
 # Ticketmaster Event Data Pipeline
 
 ## Description
-A starter data pipeline project with Python, dbt, Docker, Airflow, and Postgres! 
-
-This project is used to demonstrate my understading on ETL/ELT frameworks and how to design a simple data flow by using Ticketmaster API to extract events data from Ticketmaster with Python. Data is then transformed with Python and dbt before being loaded into Postgres database orchestrated by Airflow. Finally, PowerBI is used for visualizing event information.
+A starter data pipeline project with Python, dbt, Docker, Airflow, and Postgres. This project is used to demonstrate my understading on ETL/ELT frameworks and how to design a simple data flow by using Ticketmaster API to extract events data from Ticketmaster with Python. Data is then transformed with Python and dbt before being loaded into Postgres database orchestrated by Airflow. Finally, PowerBI is used for visualizing event information.
 
 ## Dataset
 
@@ -27,4 +25,4 @@ This project is used to demonstrate my understading on ETL/ELT frameworks and ho
 ![dashboard](images/dashboard.png)
 
 ## Credits
-Thank you [DataTalks Club](https://datatalks.club) for offering this free [course](https://github.com/DataTalksClub/data-engineering-zoomcamp) that helps me learn about the forementioned tools and technologies, especially Docker. I would also like to thank my colleagues for sharing their knowledge and learning with me!
+Thank you [DataTalks Club](https://datatalks.club) for offering this free [course](https://github.com/DataTalksClub/data-engineering-zoomcamp) that helps me learn about the forementioned tools and technologies, especially Docker.
